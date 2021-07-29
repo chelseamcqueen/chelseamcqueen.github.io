@@ -5,12 +5,12 @@
 ## End-to-end Projects
 ### Projects developed from conception to presentation.
 
-#### [Telehealth trends shaping the post-pandemic health economy](/sample_page)
+#### [Telehealth trends shaping the post-pandemic health economy](/pdf/telehealth_presentation.pdf)
 
 <img src="images/telehealth_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/pdf/telehealth trends presentation.pdf)
+#### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/sample_page)
 
 <img src="images/firearm_thumbnail.jpg?raw=true"/>
 
