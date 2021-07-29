@@ -22,10 +22,21 @@
 ## Extraction Projects
 ### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](https://github.com/chelseamcqueen/Impact-of-COVID-19-on-admission-rates-for-individuals-with-substance-use-disorders)</a><br>
+
+  This study aims to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020.<br></p>
+  
+- [Prehospital Antibiotics Improve Morbidity and Mortality of Emergency Medical Service Patients](https://github.com/chelseamcqueen/Prehospital-Antibiotics-Improve-Outcomes-of-Emergency-Patients-with-Sepsis)</a><br>
+Severe sepsis is a major cause of mortality in patients evaluated in the Emergency Department (ED). Early initiation of antibiotic therapy and IV fluids in the ED is associated with improved outcomes. We investigated whether early administration of antibiotics in the
+prehospital setting improves outcomes in these patients with sepsis.<br></p>
+
+- [A Retrospective Study Analyzing The Risk Factors For Post-Operative Gastrointestinal Complications After Coronary Artery Bypass Graft (CABG)](https://github.com/chelseamcqueen/Post-op-Complications-after-CABG)
+</a><br>
+Approximately 515,000 CABG procedures are performed annually. Gastrointestinal complications can represent significant setbacks in cardiac patients post-operative care. The objective of this project is to predict which patients  are most likely to develop post-operative complications and produce treatment strategies.<br></p>
+
+- [Risk of Heart Failure Exacerbation with COVID-19](https://github.com/chelseamcqueen/COVID-19-and-Heart-Failure-Exacerbation/) </a><br>
+Heart failure (HF) is a chronic disease which increases the risk for mortality across a range of otherwise benign diseases. Due to COVID-19's inflammatory response and increased risk for Acute Respiratory Distress Syndrome (ARDS), septic shock, and multiorgan failure; this team hypothesizes a relationship between heart exacerbations and the severity of heart failure. The primary objective of this study is to determine the risk of HF exacerbation depending on NYHA classification among COVID positive patients with known HF. <br></p>
+
 - [Project 5 Title](http://example.com/)
 
 ---
