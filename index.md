@@ -6,6 +6,7 @@
 ### Projects developed from conception to presentation.
 
 [Telehealth trends shaping the post-pandemic health economy](/sample_page)
+
 <img src="images/telehealth_thumbnail.jpg?raw=true"/>
 
 ---
@@ -18,7 +19,8 @@
 
 ---
 
-### Category Name 2
+## Extraction Projects
+### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
