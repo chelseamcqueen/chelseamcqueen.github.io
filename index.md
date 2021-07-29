@@ -41,7 +41,7 @@ Heart failure (HF) is a chronic disease which increases the risk for mortality a
 
 - [Outcomes among Acute Pancreatitis Patiets with Elevated LDH and HCT on Admission](https://github.com/chelseamcqueen/Outcomes-in-Acute-Pancreatitis-patients-with-elevated-LDH-and-HCT)</a><br>
 Acute pancreatitis is one of the most common gastrointestinal presentations to the Emergency department in the United States. Our aim is to perform a retrospective study on patients presenting with acute pancreatitis and to evaluate whether certain presentations are associated with longer hospital stay, longer ICU stay and higher mortality rate. We will compare patients presenting with age >50, HCT >40, LDH >600 and have comorbidities as CAD and/or Cerebrovascular disease and patients who don’t meet these criteria on admission. 
- <br></p>
+ <br></p> 
 ---
 
 
