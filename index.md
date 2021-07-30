@@ -5,7 +5,7 @@
 ## End-to-end Projects
 ### Projects developed from conception to presentation.
 
-#### [Telehealth trends shaping the post-pandemic health economy](/pdf/telehealth_presentation.pdf)
+#### [Telehealth trends shaping the post-pandemic health economy](https://github.com/chelseamcqueen/2021-Telehealth-Trends#readme)
 
 <img src="images/telehealth_thumbnail.jpg?raw=true"/>
 
