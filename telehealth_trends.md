@@ -1,8 +1,8 @@
 # Telehealth Trends Shaping the Post-Pandemic Health Economy
 
 <p align="center">
-  <img src="/telehealth_thumbnail.jpg?raw=true"/>
- </p>
+<img src="images/telehealth_thumbnail.jpg?raw=true"/>
+</p>
 
 <p align="right"> 
 Project Status: [Active]
