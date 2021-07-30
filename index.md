@@ -12,6 +12,7 @@
 
 
 ## Featured Projects
+[Back to top](#portfolio)
 
 ### [Telehealth trends shaping the post-pandemic health economy](https://github.com/chelseamcqueen/2021-Telehealth-Trends#readme)
 
@@ -70,7 +71,7 @@ Heart failure (HF) is a chronic disease which increases the risk for mortality a
 ---
 ## Educational Materials
 [Back to top](#portfolio)
-#### A set of presentations and guides with audio accompaniment The audience for these guides is first-year medical residents with little research experience. 
+#### A set of presentations and guides with audio accompaniment. The audience for these guides is first-year medical residents with little research experience. 
 
 - [Asking a Compelling Research Question](/pdf/ResearchCurriculum/Asking%20Compelling%20Research%20Questions.pdf)
 - [Distinguishing Quality Improvement from Research](/pdf/ResearchCurriculum/Distinguishing%20Quality%20Improvement%20%20from%20Research.pdf)
