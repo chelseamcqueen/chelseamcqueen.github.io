@@ -22,7 +22,7 @@
 
 <br><br>
 
-### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/sample_page)
+### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/firearm_injuries)
 
 <p align="center">
   <img src="images/firearm_thumbnail.jpg?raw=true"/>
