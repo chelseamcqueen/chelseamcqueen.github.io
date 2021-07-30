@@ -14,7 +14,7 @@
 ## Featured Projects
 [Back to top](#portfolio)
 
-### [Telehealth trends shaping the post-pandemic health economy](https://github.com/chelseamcqueen/2021-Telehealth-Trends#readme)
+### [Telehealth trends shaping the post-pandemic health economy](/telehealth_trends)
 
 
 <p align="center">
