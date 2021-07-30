@@ -4,11 +4,12 @@
 - [Resume](https://github.com/chelseamcqueen/Profesh/blob/main/Resumes-CVs/McQueen%20Resume%202021.pdf)
 - [Featured Projects](#featured-projects)
 - [Extraction Projects](#extraction-projects)
-- [Business Intelligence Projects](#business-intelligence-projects)
 - [Publications](#publications)
 - [Educational Materials](#educational-materials)
 - [Contact](#contact)
  
+---
+
 
 ## Featured Projects
 
@@ -22,7 +23,7 @@
 
 <br><br>
 
-### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/sample_page)
+### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/firearm_injuries)
 
 <p align="center">
   <img src="images/firearm_thumbnail.jpg?raw=true"/>
@@ -58,11 +59,6 @@ Heart failure (HF) is a chronic disease which increases the risk for mortality a
 - [Outcomes among Acute Pancreatitis Patients with Elevated LDH and HCT on Admission](https://github.com/chelseamcqueen/Outcomes-in-Acute-Pancreatitis-patients-with-elevated-LDH-and-HCT)<br>
   Acute pancreatitis is one of the most common gastrointestinal presentations to the Emergency department in the United States. Our aim is to perform a retrospective study on patients presenting with acute pancreatitis and to evaluate whether certain presentations are associated with longer hospital stay, longer ICU stay and higher mortality rate. We will compare patients presenting with age >50, HCT >40, LDH >600 and have comorbidities as CAD and/or Cerebrovascular disease and patients who don’t meet these criteria on admission. 
  <br>
-
----
-## Business Intelligence Projects
-[(Back to top)](#navigation)
-
 
 ---
 ## Publications

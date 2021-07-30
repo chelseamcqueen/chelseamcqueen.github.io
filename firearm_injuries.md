@@ -12,9 +12,6 @@ Project Status: [Complete]
 Firearm violence remains one of the most pressing public health issues in the United States. Firearm injuries are highly lethal and contribute substantially to premature death and illness in the United States (Spitzer et al.,  2020). There is no comprehensive data source for all firearm injuries and deaths in the United States. Many national databases focus solely on deaths, such as the Centers for Disease Control and Prevention (CDC) Wide-ranging Online Data for Epidemiological Research (WONDER) and National Violent Death Reporting System (NVDRS). Databases by the CDC collect non-fatal injury data from less than 100 of the 5,000 emergency rooms in the United States; multiple analyses have the data unreliable (Campbell et al., 2018; Kaufman et al., 2021). Data from electronic medical records (EMR) can bridge this gap in knowledge. Understanding the nature and magnitude of gun violence is one step in creating a public health approach to prevent this loss of life. 
 
 
-### Disclaimer
-This research was supported (in whole or in part) by HCA Healthcare. The views expressed in this publication represent those of the author and do not necessarily represent the official views of HCA Healthcare or any of its affiliated entities.
-
 ### Skills Used
 * Data Extraction
 * Data Analysis
@@ -46,3 +43,8 @@ For the purposes of this study, a firearm injury is defined as a wound or penetr
 * Other projects can be found at my [portfolio homepage](https://chelseamcqueen.github.io/).
 * Find me on [Github](https://github.com/chelseamcqueen).
 * Find me on [Linkedin](https://www.linkedin.com/in/chelseamcqueen/).
+
+
+## Disclaimer
+This research was supported (in whole or in part) by HCA Healthcare. The views expressed in this publication represent those of the author and do not necessarily represent the official views of HCA Healthcare or any of its affiliated entities.
+
