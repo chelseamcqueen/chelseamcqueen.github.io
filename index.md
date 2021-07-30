@@ -40,7 +40,7 @@
 
 ---
 ## Extraction Projects
-[(Back to top)](#navigation)
+[(Back to top)](#portfolio)
 #### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
 - [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](https://github.com/chelseamcqueen/Impact-of-COVID-19-on-admission-rates-for-individuals-with-substance-use-disorders)<br>
