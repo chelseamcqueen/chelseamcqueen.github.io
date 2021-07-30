@@ -82,7 +82,7 @@ Heart failure (HF) is a chronic disease which increases the risk for mortality a
 
 ---
 ## Contact
-[(Back to top)](#navigation)
+
 * [Email](mailto:chelsea.mcqueen@live.com)
 * [Github](https://github.com/chelseamcqueen)
 * [Linkedin](https://www.linkedin.com/in/chelseamcqueen/)
