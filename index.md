@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Navigation
-- [Resume](https://github.com/chelseamcqueen/Profesh/blob/main/Resumes-CVs/McQueen%20Resume%202021.pdf)
+- [Resume](https://drive.google.com/file/d/1F2nVEi2Ej2ouVOcDQSaDv0Ju8z0r9qG4/view?usp=sharing)
 - [Featured Projects](#featured-projects)
 - [Extraction Projects](#extraction-projects)
 - [Publications](#publications)
