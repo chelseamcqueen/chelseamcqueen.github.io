@@ -35,12 +35,11 @@ For the purposes of this study, a firearm injury is defined as a wound or penetr
 
 
 ## Featured Deliverables
-* [Firearm-related Hospitalizations Paper](example.com)
-* [Firearm Related Hospitalizations Slide deck](example.com)
+* [Firearm-related Hospitalizations Paper](https://docs.google.com/document/d/e/2PACX-1vT8sdVbfeRaOJFXTvPHbu6fLDRwMZzrEs-XfXtOa_v-dFDQsZ6h2HSjlKqP0K3zOxVMnSmOBXAbIrMX/pub)
+* [Firearm Related Hospitalizations Slidedeck](https://drive.google.com/file/d/1V9ShrhggUY1iGiwqetBxNssXQcpwR4qt/view?usp=sharing)
 
 
 ## Contact
-* Other projects can be found at my [portfolio homepage](https://chelseamcqueen.github.io/).
 * Find me on [Github](https://github.com/chelseamcqueen).
 * Find me on [Linkedin](https://www.linkedin.com/in/chelseamcqueen/).
 
