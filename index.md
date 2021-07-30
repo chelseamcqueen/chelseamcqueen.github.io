@@ -41,7 +41,7 @@
 ---
 ## Extraction Projects
 [(Back to top)](#navigation)
-### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
+#### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
 - [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](https://github.com/chelseamcqueen/Impact-of-COVID-19-on-admission-rates-for-individuals-with-substance-use-disorders)<br>
   This study aims to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020.<br>
@@ -70,6 +70,15 @@ Heart failure (HF) is a chronic disease which increases the risk for mortality a
 ---
 ## Educational Materials
 [(Back to top)](#navigation)
+#### A set of presentations and guides with audio accompaniment The audience for these guides is first-year medical residents with little research experience. 
+
+- [Asking a Compelling Research Question](/pdf/ResearchCurriculum/Asking%20Compelling%20Research%20Questions.pdf)
+- [Distinguishing Quality Improvement from Research](/pdf/ResearchCurriculum/Distinguishing%20Quality%20Improvement%20%20from%20Research.pdf)
+- [Research Study Designs](/pdf/ResearchCurriculum/Research%20Study%20Designs.pdf)
+- [Retrospective and Survey Research](/pdf/ResearchCurriculum/Retrospective%20and%20Survey%20Research.pdf)
+- [Sampling Methods and Power Analysis](/pdf/ResearchCurriculum/Sampling%20Methods%20and%20Power%20Analysis.pdf)
+- [Designing a Research Protocol](/pdf/GME_Protocol_Guide.pdf)
+
 
 ---
 ## Contact
