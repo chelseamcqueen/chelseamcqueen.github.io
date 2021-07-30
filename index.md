@@ -11,7 +11,6 @@
  
 
 ## Featured Projects
-[(Back to top)](#navigation)
 
 ### [Telehealth trends shaping the post-pandemic health economy](https://github.com/chelseamcqueen/2021-Telehealth-Trends#readme)
 
@@ -21,6 +20,7 @@
 </p>
 
 
+<br><br>
 
 ### [Firearm-Related Hospitalizations Across a National Healthcare System, 2016-2020](/sample_page)
 
