@@ -26,7 +26,7 @@ The U.S. health economy is the largest sector of the largest global economy. Hos
 
 
 ## Project Description
-The first year of the pandemic brought record-breaking shifts to the standard hospital business model. HCA Healthcare hospitals experienced a 42% decrease in encounters in April 2020 compared to the previous year and a 20% decrease in annual emergency department encounters. Simultaneously, telehealth utilization increased over 17% in the past year. As a result of the unprecedented increase in demand, many health systems, payers, employers, and Wall Street financiers have begun to pursue aggressive telehealth expansion strategies. This project explores trends in telehealth utilization, explains the effects of an oversaturated tele-medicine market, and provides recommendations to healthcare executives.
+The first year of the pandemic brought record-breaking shifts to the standard hospital business model. HCA Healthcare hospitals experienced a 42% decrease in encounters in April 2020 compared to the previous year and a 20% decrease in annual emergency department encounters. Simultaneously, telehealth utilization increased by over 17% in the past year. As a result of the unprecedented increase in demand, many health systems, payers, employers, and Wall Street financiers have begun to pursue aggressive telehealth expansion strategies. This project explores trends in telehealth utilization, explains the effects of an oversaturated telemedicine market, and provides recommendations to healthcare executives.
 
 ## Featured Deliverables
 * [Telehealth Trends Slidedeck](https://drive.google.com/file/d/1LwR3QHq3qfypS8KhZpYCOpEwi7RZdF2C/view?usp=sharing)
