@@ -50,7 +50,7 @@
 - [Prehospital Antibiotics Improve Morbidity and Mortality of Emergency Medical Service Patients](Antibiotics_Sepsis.md)<br> **Now Published!**
   Severe sepsis is a major cause of mortality in patients evaluated in the Emergency Department (ED). Early initiation of antibiotic therapy and IV fluids in the ED is associated with improved outcomes. We investigated whether early administration of antibiotics in the prehospital setting improves outcomes in these patients with sepsis. <br>
 
-- [A Retrospective Study Analyzing The Risk Factors For Post-Operative Gastrointestinal Complications After Coronary Artery Bypass Graft (CABG)](https://github.com/chelseamcqueen/Post-op-Complications-after-CABG) <br>
+- [A Retrospective Study Analyzing The Risk Factors For Post-Operative Gastrointestinal Complications After Coronary Artery Bypass Graft (CABG)](/GI_CABG.md) <br>
 Approximately 515,000 CABG procedures are performed annually. Gastrointestinal complications can represent significant setbacks in cardiac patients' post-operative care. The objective of this project is to predict which patients are most likely to develop postoperative complications and produce treatment strategies.<br>
 
 - [Risk of Heart Failure Exacerbation with COVID-19](https://github.com/chelseamcqueen/COVID-19-and-Heart-Failure-Exacerbation/) <br>
