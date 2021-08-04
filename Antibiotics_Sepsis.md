@@ -1,7 +1,7 @@
 # Prehospital Antibiotics Improve Morbidity and Mortality of Emergency Medical Service Patients
 
 <p align="center">
-  <img src="/Antibiotics_Sepsis_Header.png?raw=true"/>
+  <img src="/images/Antibiotics_Sepsis_Header.png?raw=true"/>
  </p>
 
 
@@ -41,8 +41,8 @@ Early IV administration of antibiotics in the field significantly improves outco
 patients who meet sepsis criteria based on a modified qSOFA score.
 
 ## Featured Deliverables
-* [Code](/Project%20Queries)
-* [Publication](/Prehospital%20Antibiotics%20in%20Patients%20with%20Sepsis.pdf)
+* [Code](https://github.com/chelseamcqueen/Prehospital-Antibiotics-Improve-Outcomes-of-Emergency-Patients-with-Sepsis/tree/main/Project%20Queries)
+* [Publication](/pdf/Antibiotics_Sepsis_Publication.pdf)
 
 
 ## Contact
