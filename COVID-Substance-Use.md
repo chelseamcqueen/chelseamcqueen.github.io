@@ -1,13 +1,19 @@
-<!-- # The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders  --> 
+# Featured Extraction Project
+
 
 <p align="center">
   <img src="/images/Substance Use Disorders Header.png?raw=true"/>
  </p>
 
-This study will aim to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by change in admission rates from the year before the pandemic to this year. While these results will not change social distancing recommendations, it may affect considerations in the future to make arrangements for these individuals.
-
+<p align="right"> 
 Project Status: [Complete]
  </p>
+ 
+ 
+This study will aim to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by change in admission rates from the year before the pandemic to this year. While these results will not change social distancing recommendations, it may affect considerations in the future to make arrangements for these individuals.
+
+
+
 
 ## Project Introduction
 We predict that the COVID-19 pandemic will harm worldwide mental health. A complete understanding of this phenomenon is likely to take years to decades after the end of the pandemic. One unfortunate consequence of social distancing recommendations has been the closure of social resources on which substance users rely. This study will aim to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020. 
