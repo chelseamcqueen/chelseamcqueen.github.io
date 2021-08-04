@@ -44,11 +44,11 @@
 [Back to top](#portfolio)
 #### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
-- [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](/COVID-Substance-Use.md)<br> **Now Published!**
-  This study aims to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020. <br>
-  
 - [Prehospital Antibiotics Improve Morbidity and Mortality of Emergency Medical Service Patients](Antibiotics_Sepsis.md)<br> **Now Published!**
   Severe sepsis is a major cause of mortality in patients evaluated in the Emergency Department (ED). Early initiation of antibiotic therapy and IV fluids in the ED is associated with improved outcomes. We investigated whether early administration of antibiotics in the prehospital setting improves outcomes in these patients with sepsis. <br>
+  
+- [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](/COVID-Substance-Use.md)<br> **Now Published!**
+  This study aims to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020. <br>
 
 - [A Retrospective Study Analyzing The Risk Factors For Post-Operative Gastrointestinal Complications After Coronary Artery Bypass Graft (CABG)](/GI_CABG.md) <br>
 Approximately 515,000 CABG procedures are performed annually. Gastrointestinal complications can represent significant setbacks in cardiac patients' post-operative care. The objective of this project is to predict which patients are most likely to develop postoperative complications and produce treatment strategies.<br>
@@ -56,7 +56,7 @@ Approximately 515,000 CABG procedures are performed annually. Gastrointestinal c
 - [Risk of Heart Failure Exacerbation with COVID-19](/COVID_HFE.md) <br>
 Heart failure (HF) is a chronic disease that increases the risk for mortality across a range of otherwise benign diseases. Due to COVID-19's inflammatory response and increased risk for Acute Respiratory Distress Syndrome (ARDS), septic shock, and multi-organ failure; this team hypothesizes a relationship between heart exacerbations and the severity of heart failure. The primary objective of this study is to determine the risk of HF exacerbation depending on NYHA classification among COVID-positive patients with known HF. <br>
 
-- [Outcomes among Acute Pancreatitis Patients with Elevated LDH and HCT on Admission](https://github.com/chelseamcqueen/Outcomes-in-Acute-Pancreatitis-patients-with-elevated-LDH-and-HCT)<br>
+- [Outcomes among Acute Pancreatitis Patients with Elevated LDH and HCT on Admission](/Pancreatitis_LDH.md)<br>
   Acute pancreatitis is one of the most common gastrointestinal presentations to the Emergency department in the United States. We aim to perform a retrospective study on patients presenting with acute pancreatitis and to evaluate whether certain presentations are associated with a longer hospital stay, longer ICU stays, and higher mortality rate. We will compare patients over 50 with HCT >40, LDH >600, and/or comorbidities of interest.
  <br>
 
