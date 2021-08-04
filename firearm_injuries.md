@@ -36,7 +36,7 @@ The sample comprises 29,406 total firearm injury encounters with an annual 5,881
 
 ## Featured Deliverables
 * [Firearm-related Hospitalizations Paper](https://docs.google.com/document/d/e/2PACX-1vT8sdVbfeRaOJFXTvPHbu6fLDRwMZzrEs-XfXtOa_v-dFDQsZ6h2HSjlKqP0K3zOxVMnSmOBXAbIrMX/pub)
-* [Firearm-related Hospitalizations Slidedeck](https://drive.google.com/file/d/1V9ShrhggUY1iGiwqetBxNssXQcpwR4qt/view?usp=sharing)
+* [Firearm-related Hospitalizations Slidedeck](/pdf/Firearm-Related%20Hospitalizations%20Presentation.pdf)
 
 
 ## Contact
