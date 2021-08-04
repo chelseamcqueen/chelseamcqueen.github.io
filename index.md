@@ -53,7 +53,7 @@
 - [A Retrospective Study Analyzing The Risk Factors For Post-Operative Gastrointestinal Complications After Coronary Artery Bypass Graft (CABG)](/GI_CABG.md) <br>
 Approximately 515,000 CABG procedures are performed annually. Gastrointestinal complications can represent significant setbacks in cardiac patients' post-operative care. The objective of this project is to predict which patients are most likely to develop postoperative complications and produce treatment strategies.<br>
 
-- [Risk of Heart Failure Exacerbation with COVID-19](https://github.com/chelseamcqueen/COVID-19-and-Heart-Failure-Exacerbation/) <br>
+- [Risk of Heart Failure Exacerbation with COVID-19](/COVID_HFE.md) <br>
 Heart failure (HF) is a chronic disease that increases the risk for mortality across a range of otherwise benign diseases. Due to COVID-19's inflammatory response and increased risk for Acute Respiratory Distress Syndrome (ARDS), septic shock, and multi-organ failure; this team hypothesizes a relationship between heart exacerbations and the severity of heart failure. The primary objective of this study is to determine the risk of HF exacerbation depending on NYHA classification among COVID-positive patients with known HF. <br>
 
 - [Outcomes among Acute Pancreatitis Patients with Elevated LDH and HCT on Admission](https://github.com/chelseamcqueen/Outcomes-in-Acute-Pancreatitis-patients-with-elevated-LDH-and-HCT)<br>
