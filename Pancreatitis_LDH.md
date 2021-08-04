@@ -1,5 +1,3 @@
-<!-- # Outcomes among Acute Pancreatitis Patients with Elevated LDH and HCT on Admission  --> 
-
 # Featured Extraction Project
 
 <p align="center">
