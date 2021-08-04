@@ -1,7 +1,7 @@
 <!-- # The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders  --> 
 
 <p align="center">
-  <img src="/Substance Use Disorders Header.png?raw=true"/>
+  <img src="/images/Substance Use Disorders Header.png?raw=true"/>
  </p>
 
 This study will aim to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by change in admission rates from the year before the pandemic to this year. While these results will not change social distancing recommendations, it may affect considerations in the future to make arrangements for these individuals.
@@ -32,8 +32,8 @@ Our data suggest that even during the times of a global pandemic when there is a
 
 
 ## Featured Deliverables
-* [Code](/McDonald%20SU%20Queries)
-* [Publication](/Publicaton.pdf)
+* [Code](https://github.com/chelseamcqueen/Impact-of-COVID-19-on-admission-rates-for-individuals-with-substance-use-disorders/tree/main/McDonald%20SU%20Queries)
+* [Publication](/pdf/SU_Publicaton.pdf)
 
 
 ## Contact
