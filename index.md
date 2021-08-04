@@ -44,7 +44,7 @@
 [Back to top](#portfolio)
 #### Worked with project teams to operationalize project elements, extracted data using SQL, provided project support.
 
-- [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](https://github.com/chelseamcqueen/Impact-of-COVID-19-on-admission-rates-for-individuals-with-substance-use-disorders)<br> **Now Published!**
+- [The Impact of COVID-19 on Admission Rates for Individuals with Substance Use Disorders](/COVID-Substance-Use.md)<br> **Now Published!**
   This study aims to observe the effect of the pandemic and subsequent social distancing recommendations on individuals with substance use disorders (SUD) by analyzing the change in admission rates between 2019 and 2020. <br>
   
 - [Prehospital Antibiotics Improve Morbidity and Mortality of Emergency Medical Service Patients](https://github.com/chelseamcqueen/Prehospital-Antibiotics-Improve-Outcomes-of-Emergency-Patients-with-Sepsis)<br> **Now Published!**
@@ -87,3 +87,5 @@ Heart failure (HF) is a chronic disease that increases the risk for mortality ac
 * [Email](mailto:chelsea.mcqueen@live.com)
 * [Github](https://github.com/chelseamcqueen)
 * [Linkedin](https://www.linkedin.com/in/chelseamcqueen/)
+
+
