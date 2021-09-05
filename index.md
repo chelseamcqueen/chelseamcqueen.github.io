@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Navigation
-- [Resume](https://drive.google.com/file/d/1F2nVEi2Ej2ouVOcDQSaDv0Ju8z0r9qG4/view?usp=sharing)
+- [Resume](/pdf/McQueen%20Resume%209.2021.pdf)
 - [Featured Projects](#featured-projects)
 - [Extraction Projects](#extraction-projects)
 - [Publications](#publications)
