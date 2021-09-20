@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Navigation
-- [Resume](/pdf/McQueen%20Resume%209.2021.pdf)
+- [Resume](/pdf/McQueen%20Resume%209.20.21.pdf)
 - [Featured Projects](#featured-projects)
 - [Extraction Projects](#extraction-projects)
 - [Publications](#publications)
