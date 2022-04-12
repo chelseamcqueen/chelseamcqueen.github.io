@@ -1,7 +1,6 @@
 # Portfolio
 
 ## Navigation
-- [Resume](/pdf/McQueen%20Resume%209.20.21.pdf)
 - [Publications](#publications)
 - [Contact](#contact)
  
